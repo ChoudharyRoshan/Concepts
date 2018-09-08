@@ -1,0 +1,25 @@
+Provides steps for applying random forest to do classification and prediction. Includes,
+- random forest model
+- why and when it is used
+- benefits & steps
+- number of trees, ntree
+- number of variables tried at each step, mtry
+- data partitioning
+- prediction and confusion matrix
+- accuracy and sensitivity
+- randomForest & caret packages
+- bootstrap samples and out of bag (oob) error
+- oob error rate
+- tune random forest using mtry
+- no. of nodes for the trees in the forest
+- variable importance
+- mean decrease accuracy & gine
+- variables used
+- partial dependence plot
+- extract single tree from the forest
+- multi-dimensional scaling plot of proximity matrix
+- detailed example with cardiotocographic or ctg data
+
+random forest is an important tool related to analyzing big data or working in data science field.
+
+R is a free software environment for statistical computing and graphics, and is widely used by both academia and industry.  R software works on both Windows and Mac-OS. It was ranked no. 1 in a KDnuggets poll on top languages for analytics, data mining, and data science. RStudio is a user friendly environment for R that has become popular.
